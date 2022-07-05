@@ -74,7 +74,7 @@ public final class CGSpeccycle extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        getLogger().info("Spectating BOT has stopped!");
+        getLogger().info("Spectating BOT has stopped! See you soon!");
 
     }
 
