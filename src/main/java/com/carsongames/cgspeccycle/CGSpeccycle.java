@@ -183,7 +183,6 @@ public final class CGSpeccycle extends JavaPlugin {
 
                 }
             } catch (Exception e){
-    e.printStackTrace();
             }
 
         }, 0, 1);
