@@ -1,0 +1,4 @@
+name: CGSpeccycle
+version: '${project.version}'
+main: com.carsongames.cgspeccycle.CGSpeccycle
+api-version: 1.17

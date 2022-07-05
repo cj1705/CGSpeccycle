@@ -1,0 +1,6 @@
+# Enter the Username for the bot if the server is in offline mode
+# Enter the UUID for the bot if the server is in online mode
+
+BOT:
+# The time between switching players
+interval:
