@@ -9,4 +9,5 @@ This plugin uses another player (A bot player) to spectate other players. The bo
 
 # Other Links
 Plugin Link : https://www.spigotmc.org/resources/cgspeccycle.103133/
+
 Inspired by https://www.spigotmc.org/resources/spectator.16745/
